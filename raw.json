@@ -116,12 +116,11 @@
         "YELLOW_300": "#1875E1",
         "GREEN_360": "#123967",
         "RED_400": "#FC0E61"
-    },
-    "spec": 2
-},
+      },
+    "spec": 2,
     "background": {
+        "url": "https://cdn.discordapp.com/attachments/1127697256267665420/1139511435341336587/dd1027842a076656877b8fd195dc25df.gif",
+        "alpha": 0.5,
         "blur_radius": 2,
-        "url": "https:\/\/media.discordapp.net\/attachments\/1127697256267665420\/1139446370625925130\/pixel-art.gif"
-    },
-    "fonts": {
-        "*": "https:\/\/cdn.discordapp.com\/attachments\/1127697256267665420\/1139141020005711942\/ggsans-Bold.ttf"
+    }
+}
